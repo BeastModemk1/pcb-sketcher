@@ -1,1 +1,1 @@
-/* The first ever project I made with the help of v0 */
+A simple project I made with the assistance of v0, simple PCB design, nothing to fancy; food for thought.
